@@ -1,27 +1,102 @@
 [
-  {
-    "question": "Was ist die Hauptstadt von Kanada?",
-    "answers": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "question": "Welcher Planet ist der Sonne am nächsten?",
-    "answers": ["Venus", "Mars", "Merkur", "Jupiter"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "question": "Wie viele Kontinente gibt es?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "question": "Welches Element hat das chemische Symbol O?",
-    "answers": ["Gold", "Sauerstoff", "Silber", "Osmium"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "question": "In welchem Jahr fiel die Berliner Mauer?",
-    "answers": ["1987", "1988", "1989", "1991"],
-    "correctAnswerIndex": 2
-  }
+    {
+        "question": "Was ist die Hauptstadt von Kanada?",
+        "answers": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welcher Planet ist der Sonne am nächsten?",
+        "answers": ["Venus", "Mars", "Merkur", "Jupiter"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Wie viele Kontinente gibt es?",
+        "answers": ["5", "6", "7", "8"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Welches Element hat das chemische Symbol O?",
+        "answers": ["Gold", "Sauerstoff", "Silber", "Osmium"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "In welchem Jahr fiel die Berliner Mauer?",
+        "answers": ["1987", "1988", "1989", "1991"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Welches ist das größte Tier der Welt?",
+        "answers": ["Elefant", "Blauwal", "Giraffe", "Hai"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welches Land hat die meisten Einwohner?",
+        "answers": ["Indien", "USA", "China", "Indonesien"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Welcher Ozean ist der größte?",
+        "answers": ["Atlantik", "Pazifik", "Indischer Ozean", "Arktischer Ozean"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Wer schrieb die 'Harry Potter'-Reihe?",
+        "answers": ["J.R.R. Tolkien", "J.K. Rowling", "Stephen King", "George R.R. Martin"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welches ist das längste Flusssystem der Welt?",
+        "answers": ["Nil", "Amazonas", "Mississippi", "Donau"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welches Land gewann die Fußball-WM 2014?",
+        "answers": ["Argentinien", "Deutschland", "Brasilien", "Spanien"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Wie viele Minuten hat eine Stunde?",
+        "answers": ["60", "100", "45", "30"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Welches Gas benötigen Menschen zum Atmen?",
+        "answers": ["Kohlendioxid", "Stickstoff", "Sauerstoff", "Helium"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Welches ist das höchste Gebirge der Welt?",
+        "answers": ["Alpen", "Himalaya", "Rocky Mountains", "Anden"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welches Instrument hat Tasten, Saiten und Pedale?",
+        "answers": ["Klavier", "Gitarre", "Violine", "Flöte"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "question": "Welche Farbe entsteht aus Blau und Gelb?",
+        "answers": ["Rot", "Grün", "Orange", "Lila"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Wie viele Tage hat ein Schaltjahr?",
+        "answers": ["364", "365", "366", "367"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Welches Organ pumpt Blut durch den Körper?",
+        "answers": ["Lunge", "Herz", "Leber", "Niere"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "question": "Welches Land ist für die Pyramiden von Gizeh bekannt?",
+        "answers": ["Mexiko", "Peru", "Ägypten", "Jordanien"],
+        "correctAnswerIndex": 2
+    },
+    {
+        "question": "Welche Programmiersprache wird häufig für iOS-Apps verwendet?",
+        "answers": ["Java", "Swift", "Python", "C#"],
+        "correctAnswerIndex": 1
+    }
 ]

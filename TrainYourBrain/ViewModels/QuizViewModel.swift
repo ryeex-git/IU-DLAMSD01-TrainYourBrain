@@ -21,6 +21,8 @@ final class QuizViewModel: ObservableObject {
 
     init() {
         questions = dataService.loadQuestions()
+        questions.shuffle()
+        questions = Array(questions.prefix(10))
     }
 
     var currentQuestion: QuizQuestion {
